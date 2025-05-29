@@ -7,9 +7,9 @@
     "provider": "Google Earth Engine",
     "tags": "Choropleth, Visualization, Mapping",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Visualization",
-    "thumbnail": "appimg/boxplot.JPG"
+    "thumbnail": "appimg/choropleth.png"
   },
   {
     "title": "Vector Styling",
@@ -19,7 +19,7 @@
     "provider": "Google Earth Engine",
     "tags": "Vector, Styling, Visualization",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Visualization",
     "thumbnail": "appimg/barcharts.png"
   },
@@ -31,7 +31,7 @@
     "provider": "Google Earth Engine",
     "tags": "Random, Points, Sampling",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://www.nature.com/articles/s43247-024-01776-y",
     "thematic_group": "Sampling",
     "thumbnail": ""
   },
@@ -43,7 +43,7 @@
     "provider": "Google Earth Engine",
     "tags": "Stratified, Random, Sampling",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://www.nature.com/articles/s43247-024-01776-y",
     "thematic_group": "Sampling",
     "thumbnail": ""
   },
@@ -55,7 +55,7 @@
     "provider": "Google Earth Engine",
     "tags": "Profile, Cross Section, Analysis",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://www.nature.com/articles/s43247-024-01776-y",
     "thematic_group": "Analysis",
     "thumbnail": ""
   },
@@ -67,7 +67,7 @@
     "provider": "Google Earth Engine",
     "tags": "ROC, Curve, Classification, Accuracy",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://www.nature.com/articles/s43247-024-01776-y",
     "thematic_group": "Classification",
     "thumbnail": ""
   },
@@ -79,7 +79,7 @@
     "provider": "Google Earth Engine",
     "tags": "Statistics, Mean, Median, SD, CV, Range",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://www.nature.com/articles/s43247-024-01776-y",
     "thematic_group": "Statistics",
     "thumbnail": ""
   },
@@ -91,7 +91,7 @@
     "provider": "Google Earth Engine",
     "tags": "Kriging, Interpolation, Geostatistics",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Interpolation",
     "thumbnail": ""
   },
@@ -103,7 +103,7 @@
     "provider": "Google Earth Engine",
     "tags": "IDW, Interpolation, Geostatistics",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Interpolation",
     "thumbnail": ""
   },
@@ -115,7 +115,7 @@
     "provider": "Google Earth Engine",
     "tags": "HotSpot, Getis-Ord, Spatial Statistics",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Spatial Statistics",
     "thumbnail": ""
   },
@@ -127,7 +127,7 @@
     "provider": "Google Earth Engine",
     "tags": "AHP, Multi-criteria, Analysis",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Multi-criteria Analysis",
     "thumbnail": ""
   },
@@ -139,7 +139,7 @@
     "provider": "Google Earth Engine",
     "tags": "AHP, Multi-criteria, Analysis",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Multi-criteria Analysis",
     "thumbnail": ""
   },
@@ -151,7 +151,7 @@
     "provider": "Google Earth Engine",
     "tags": "Contour, Interpolation, Visualization",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Visualization",
     "thumbnail": ""
   },
@@ -163,7 +163,7 @@
     "provider": "Google Earth Engine",
     "tags": "Cost Distance, Analysis",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Analysis",
     "thumbnail": ""
   },
@@ -175,7 +175,7 @@
     "provider": "Google Earth Engine",
     "tags": "Grid, Generation, Vector",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Vector",
     "thumbnail": ""
   },
@@ -187,7 +187,7 @@
     "provider": "Google Colab",
     "tags": "Download, Image, Colab",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Utilities",
     "thumbnail": ""
   },
@@ -199,7 +199,7 @@
     "provider": "Google Earth Engine",
     "tags": "Time Series, Monthly, Seasonal, Annual",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Time Series",
     "thumbnail": ""
   },
@@ -211,7 +211,7 @@
     "provider": "Google Earth Engine",
     "tags": "Anomaly, Analysis, Time Series",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Time Series",
     "thumbnail": ""
   },
@@ -223,7 +223,7 @@
     "provider": "Google Earth Engine",
     "tags": "Rainfall, Deviation, Analysis",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Climate",
     "thumbnail": ""
   },
@@ -235,7 +235,7 @@
     "provider": "Google Earth Engine",
     "tags": "Spectral, Distance, Analysis",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Spectral Analysis",
     "thumbnail": ""
   },
@@ -247,7 +247,7 @@
     "provider": "Google Earth Engine",
     "tags": "Mask, unmask, selfMask",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Image Processing",
     "thumbnail": ""
   },
@@ -259,7 +259,7 @@
     "provider": "Google Earth Engine",
     "tags": "Raster, Vector, Conversion",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Conversion",
     "thumbnail": ""
   },
@@ -271,7 +271,7 @@
     "provider": "Google Earth Engine",
     "tags": "Contour, Isoline, Visualization",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Visualization",
     "thumbnail": ""
   },
@@ -283,7 +283,7 @@
     "provider": "Google Earth Engine",
     "tags": "Buffer, Analysis, Vector",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Vector",
     "thumbnail": ""
   },
@@ -295,7 +295,7 @@
     "provider": "Google Earth Engine",
     "tags": "Correlation, Statistics",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Statistics",
     "thumbnail": ""
   },
@@ -307,7 +307,7 @@
     "provider": "Google Earth Engine",
     "tags": "Zonal, Statistics, Single",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Statistics",
     "thumbnail": ""
   },
@@ -319,7 +319,7 @@
     "provider": "Google Earth Engine",
     "tags": "Zonal, Statistics, Class",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Statistics",
     "thumbnail": ""
   },
@@ -331,7 +331,7 @@
     "provider": "Google Earth Engine",
     "tags": "Regression, Linearfit, Statistics",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Regression",
     "thumbnail": ""
   },
@@ -343,7 +343,7 @@
     "provider": "Google Earth Engine",
     "tags": "Regression, Linear, Statistics",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Regression",
     "thumbnail": ""
   },
@@ -355,7 +355,7 @@
     "provider": "Google Earth Engine",
     "tags": "Regression, Multiple Linear, Statistics",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Regression",
     "thumbnail": ""
   },
@@ -367,7 +367,7 @@
     "provider": "Google Earth Engine",
     "tags": "Supervised, Classification",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Classification",
     "thumbnail": ""
   },
@@ -379,7 +379,7 @@
     "provider": "Google Earth Engine",
     "tags": "Change Detection, Analysis",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Change Detection",
     "thumbnail": ""
   },
@@ -391,7 +391,7 @@
     "provider": "Google Earth Engine",
     "tags": "Chart, Transect, Visualization",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Visualization",
     "thumbnail": ""
   },
@@ -403,7 +403,7 @@
     "provider": "Google Earth Engine",
     "tags": "Box Plot, Chart, Visualization",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Visualization",
     "thumbnail": ""
   },
@@ -415,7 +415,7 @@
     "provider": "Google Earth Engine",
     "tags": "Combo Chart, Visualization",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Visualization",
     "thumbnail": ""
   },
@@ -427,7 +427,7 @@
     "provider": "Google Earth Engine",
     "tags": "Dual Axis, Chart, Visualization",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Visualization",
     "thumbnail": ""
   },
@@ -439,7 +439,7 @@
     "provider": "Google Earth Engine",
     "tags": "Yearly, Time Series, Chart",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Time Series",
     "thumbnail": ""
   },
@@ -451,7 +451,7 @@
     "provider": "Google Earth Engine",
     "tags": "Trend Line, Time Series, Chart",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Time Series",
     "thumbnail": ""
   },
@@ -463,7 +463,7 @@
     "provider": "Google Earth Engine",
     "tags": "Comparison, Areas, Time Series",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Time Series",
     "thumbnail": ""
   },
@@ -475,7 +475,7 @@
     "provider": "Google Earth Engine",
     "tags": "Comparison, Years, Time Series",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Time Series",
     "thumbnail": ""
   },
@@ -487,7 +487,7 @@
     "provider": "Google Earth Engine",
     "tags": "Histogram, Chart, Visualization",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Visualization",
     "thumbnail": ""
   },
@@ -499,7 +499,7 @@
     "provider": "Google Earth Engine",
     "tags": "Scatter, Chart, Visualization",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Visualization",
     "thumbnail": ""
   },
@@ -511,7 +511,7 @@
     "provider": "Google Earth Engine",
     "tags": "Bar Chart, Visualization",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Visualization",
     "thumbnail": ""
   },
@@ -523,7 +523,7 @@
     "provider": "Google Earth Engine",
     "tags": "Pie Chart, Visualization",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Visualization",
     "thumbnail": ""
   },
@@ -535,7 +535,7 @@
     "provider": "Google Earth Engine",
     "tags": "Stacked Bar Chart, Visualization",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Visualization",
     "thumbnail": ""
   },
@@ -547,7 +547,7 @@
     "provider": "Google Earth Engine",
     "tags": "Population, Comparison, Time Series",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Time Series",
     "thumbnail": ""
   },
@@ -559,7 +559,7 @@
     "provider": "Google Earth Engine",
     "tags": "Spectral, Profile, Chart",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Spectral Analysis",
     "thumbnail": ""
   },
@@ -571,7 +571,7 @@
     "provider": "Google Earth Engine",
     "tags": "Chart, Visualization, Combined",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Visualization",
     "thumbnail": ""
   },
@@ -583,7 +583,7 @@
     "provider": "Google Colab",
     "tags": "R, Colab, Notebook",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Utilities",
     "thumbnail": ""
   },
@@ -595,7 +595,7 @@
     "provider": "Google Colab",
     "tags": "MLR, Regression, Colab",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Regression",
     "thumbnail": ""
   },
@@ -607,7 +607,7 @@
     "provider": "Google Earth Engine",
     "tags": "NDVI, Precipitation, Pearson, Correlation",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Statistics",
     "thumbnail": ""
   },
@@ -619,7 +619,7 @@
     "provider": "Google Earth Engine",
     "tags": "Kendall, Tau, Rank, Correlation",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Statistics",
     "thumbnail": ""
   },
@@ -631,7 +631,7 @@
     "provider": "Google Earth Engine",
     "tags": "Rainfall, Trends, sensSlope",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Climate",
     "thumbnail": ""
   },
@@ -643,7 +643,7 @@
     "provider": "Google Earth Engine",
     "tags": "Landsat, B5, B6, LinearFit",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Regression",
     "thumbnail": ""
   },
@@ -655,7 +655,7 @@
     "provider": "Google Earth Engine",
     "tags": "Temperature, Precipitation, LinearRegression",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Regression",
     "thumbnail": ""
   },
@@ -667,7 +667,7 @@
     "provider": "Google Earth Engine",
     "tags": "Covariance, Datasets, Statistics",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Statistics",
     "thumbnail": ""
   },
@@ -679,7 +679,7 @@
     "provider": "Google Earth Engine",
     "tags": "Centered, Covariance, Statistics",
     "license": "Apache 2.0",
-    "docs": "",
+    "docs": "https://gee-community-catalog.org/projects/shoreline/",
     "thematic_group": "Statistics",
     "thumbnail": ""
   }
